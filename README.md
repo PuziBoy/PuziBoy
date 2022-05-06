@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+My name is Bogdan Puzikov. I study at the Tallinn Polytechnic as a software developer.
+If you find something you like, click on the repositiry's star.)
 
 <!--
 **PuziBoy/PuziBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
